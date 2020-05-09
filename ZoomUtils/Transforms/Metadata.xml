@@ -7,4 +7,6 @@
     <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='ZMDownloadDiscCacheFile']" />
     <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='HashMapComparator']" />
     <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='AndroidAppUtil.MimeType']" />
+
+   <remove-node path="/api/package[@name='us.zoom.androidlib.widget.segement']/class[@name='ZMSegmentTabLayout']" />
 </metadata>
